@@ -58,7 +58,8 @@
         "siu/manejador-salida-bootstrap": "Permite generar un marcado HTML responsive",
         "simplesamlphp/simplesamlphp": "Permite conectarse a un IDP centralizado (see onelogin)",
         "siu/rdi": "Permite almacenar documentos en un ECM",
-        "siu-toba/toba-referencia": "Contiene ejemplos de código de operaciones en SIU-Toba"
+        "siu-toba/toba-referencia": "Contiene ejemplos de código de operaciones en SIU-Toba",
+        "paragonie/halite": "Permite generar claves para la version inicial de SIU-Arai"
     },
     "conflict": {
         "siu/arai-cli": "<2.5.0",
