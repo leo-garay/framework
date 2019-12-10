@@ -47,7 +47,8 @@
         "siu/arai-crypto": "*",
         "siu/arai-json-parser": "*",
         "siu/arai-json-migrator": "*",
-        "siu/manejador-salida-bootstrap" : "dev-develop"
+        "siu/manejador-salida-bootstrap" : "dev-develop",
+        "phpstan/phpstan": "^0.12.2"
     },
     "suggest": {
         "siu-toba/jasper": "Permite imprimir reportes via Jasper desde SIU-Toba",
